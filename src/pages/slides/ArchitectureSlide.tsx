@@ -1,4 +1,4 @@
-import { Layers, Cpu, Brain, Monitor, Shield, Database, Wifi, Server } from 'lucide-react'
+import { Layers, Cpu, Brain, Monitor, Shield, Database, Wifi, Server, Cloud } from 'lucide-react'
 
 export default function ArchitectureSlide() {
   return (

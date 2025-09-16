@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import { Train, Brain, BarChart3, Zap, Target, Users, TrendingUp, Database, Network } from 'lucide-react'
+import { Train, Brain, BarChart3, Zap, Target, TrendingUp, Database, Network } from 'lucide-react'
 
 export default function Overview() {
   const navigationTiles = [
